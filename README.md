@@ -1,3 +1,8 @@
+### Operações e Operandos
+
+- [Utilizando add e addi](./operacoesOperandos/0001.asm)
+- [Utilizando sub](./operacoesOperandos/0002.asm)
+
 ### Impressões
 
 - [Imprimindo Hello World](./impressoes/helloWorld.asm)
